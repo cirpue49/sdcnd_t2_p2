@@ -11,7 +11,9 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Assuming CTVR model, the result looks like this.
 ![alt text][image1]
+
 ![alt text][image2]
+
 Each figure represents RMSE for x, y, vx, vy respectively. 
 
 ---     
